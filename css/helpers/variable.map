@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../scss/helpers/variable.css",
+	"sources": [
+		"../../scss/helpers/variable.scss"
+	],
+	"sourcesContent": [
+		"\r\n\r\n\r\n\r\n\r\n\r\n$box-width-70: 70%;\r\n\r\n\r\n\r\n$padding-side-20: 20%;\r\n$padding-side-5: 5%;"
+	],
+	"mappings": "",
+	"names": []
+}
